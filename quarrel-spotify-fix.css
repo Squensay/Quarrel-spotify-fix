@@ -18,7 +18,7 @@
 }
 
 .powercord-spotify .container-3baos1{
-     background-color: var(--background-secondary-alt);
+     background-color: var(--bar-background-primary);
      padding-top:0px;
      padding-bottom:0px;
 }
@@ -28,10 +28,10 @@
 }
 
 .powercord-spotify {
-    background-color: var(--background-secondary-alt);
+    background-color: var(--bar-background-primary);
 }
 
 .powercord-spotify .spotify-seek-bar{
-    background-color: var(--background-secondary-alt);
+    background-color: var(--bar-background-primary);
     
 }
