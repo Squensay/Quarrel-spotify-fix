@@ -1,0 +1,37 @@
+#app-mount .container-3baos1 {
+    position: unset;
+    background-color: transparent;
+    bottom: 0px;
+    max-width: 223px;
+}
+
+#app-mount .sidebar-2K8pFh{
+    padding-bottom: unset;
+}
+.panels-j1Uci_ {
+     background-color: var(--bar-background-primary);
+}
+
+.container-3baos1{
+    padding-top:16.5px;
+    padding-bottom:16.5px;
+}
+
+.powercord-spotify .container-3baos1{
+     background-color: var(--background-secondary-alt);
+     padding-top:0px;
+     padding-bottom:0px;
+}
+
+.powercord-spotify .spotify-buttons button{
+    visibility:hidden
+}
+
+.powercord-spotify {
+    background-color: var(--background-secondary-alt);
+}
+
+.powercord-spotify .spotify-seek-bar{
+    background-color: var(--background-secondary-alt);
+    
+}
